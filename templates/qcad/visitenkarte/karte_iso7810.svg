@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="303.3071"
+   height="191.26772"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="karte_iso7810.pdf"
+   inkscape:export-filename="/home/kab/qcad/visitenkarte/karte_iso7810.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs4">
+    <marker
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path3011"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="193.59405"
+     inkscape:cy="93.552521"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     inkscape:window-width="1680"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3004"
+       empspacing="1"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="0.1mm"
+       spacingy="0.1mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-861.09443)">
+    <g
+       id="layer1-1"
+       inkscape:label="Layer 1"
+       transform="matrix(0.2124282,0,0,0.2124282,-9.687892,863.10139)">
+      <g
+         transform="matrix(0.99998977,0,0,0.99998977,144.19649,-92.004947)"
+         inkscape:label="0"
+         id="boel_tx">
+        <title
+           id="title3924">boel logo regular</title>
+        <g
+           inkscape:label="#b_ch"
+           id="b_ch">
+          <title
+             id="title3916">b charachter</title>
+          <path
+             id="path3018"
+             d="m -7.7940911,228.30913 a 0,0 0 0 0 0,0 0,0 0 0 0 0,0 z"
+             style="fill:none;stroke:#000000;stroke-width:10.00010204;stroke-linecap:round;stroke-miterlimit:17.39999962;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3020"
+             d="m -27.783954,153.96336 0,111.74333"
+             style="fill:none;stroke:#000000;stroke-width:10.00010204;stroke-linecap:round;stroke-miterlimit:17.39999962;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3022"
+             d="M -27.783954,265.70669 A 44.977188,44.977188 0 1 0 -7.7940911,228.30913"
+             style="fill:none;stroke:#000000;stroke-width:10.00010204;stroke-linecap:round;stroke-miterlimit:17.39999962;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           inkscape:label="#o_ch"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:10.00010204;stroke-linecap:round;stroke-miterlimit:17.39999962;stroke-dasharray:none"
+           d="m 182.10949,265.70669 a 44.977188,44.977188 0 1 0 -89.954229,0 44.977188,44.977188 0 1 0 89.954229,0 z"
+           id="o_ch">
+          <title
+             id="title3918">o character</title>
+        </path>
+        <g
+           inkscape:label="#e_ch"
+           id="e_ch">
+          <title
+             id="title3920">e character</title>
+          <path
+             id="path3026"
+             d="m 282.05893,228.30913 a 44.977188,44.977188 0 1 0 0,74.79515"
+             style="fill:none;stroke:#000000;stroke-width:10.00010204;stroke-linecap:round;stroke-miterlimit:17.39999962;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3028"
+             d="m 257.07164,265.70669 -44.97733,0"
+             style="fill:none;stroke:#000000;stroke-width:10.00010204;stroke-linecap:round;stroke-miterlimit:17.39999962;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           inkscape:label="#l_ch"
+           id="l_ch">
+          <title
+             id="title3922">l character</title>
+          <path
+             id="path3030"
+             d="m 312.04372,153.96336 0,111.74333"
+             style="fill:none;stroke:#000000;stroke-width:10.00010204;stroke-linecap:round;stroke-miterlimit:17.39999962;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3032"
+             d="m 312.04372,265.70669 a 44.977188,44.977188 0 0 0 44.97712,44.97727"
+             style="fill:none;stroke:#000000;stroke-width:10.00010204;stroke-linecap:round;stroke-miterlimit:17.39999962;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="162.99213"
+       y="956.69287"
+       id="person_name"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="162.99213"
+         y="956.69287"
+         id="tspan3206"
+         style="font-size:10px;font-weight:bold;line-height:100%;-inkscape-font-specification:Ubuntu Bold">Kevin A. Bortis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="162.99213"
+       y="1038.189"
+       id="email_data"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         x="162.99213"
+         y="1038.189"
+         id="tspan3226"
+         style="font-size:8px;line-height:120.00000477%">kevin.bortis@boel.ch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="162.99213"
+       y="967.32281"
+       id="person_function"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3215"
+         x="162.99213"
+         y="967.32281"
+         style="font-size:8px;line-height:100%">Owner</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 14.173228,921.2598 294.094492,0"
+       id="path3217"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="14.173228"
+       y="1038.189"
+       id="corp_web"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3995"
+         x="14.173228"
+         y="1038.189">www.boel.ch</tspan></text>
+    <g
+       id="corp_addr">
+      <text
+         sodipodi:linespacing="120%"
+         id="corp_str"
+         y="946.06293"
+         x="14.173228"
+         style="font-size:22px;font-style:normal;font-weight:normal;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ubuntu;-inkscape-font-specification:ubuntu"
+         xml:space="preserve"><tspan
+           id="tspan3196"
+           style="font-size:8px;line-height:120.00000477%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           y="946.06293"
+           x="14.173228"
+           sodipodi:role="line">Egga 15</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="corp_name"
+         y="935.43304"
+         x="14.173228"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;line-height:100%;-inkscape-font-specification:Ubuntu Bold"
+           y="935.43304"
+           x="14.173228"
+           id="tspan3208"
+           sodipodi:role="line">Bortis Elektronik</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="corp_plz"
+         y="956.69287"
+         x="14.173228"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="956.69287"
+           x="14.173228"
+           id="tspan3999"
+           sodipodi:role="line">3983 Bister</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="corp_country"
+         y="967.32281"
+         x="14.173228"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="967.32281"
+           x="14.173228"
+           id="tspan4003"
+           sodipodi:role="line">Switzerland</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="162.99213"
+       y="1016.9291"
+       id="phone_text"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4011"
+         x="162.99213"
+         y="1016.9291">Phone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="162.99213"
+       y="1027.559"
+       id="fax_text"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4015"
+         x="162.99213"
+         y="1027.559">Fax</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="194.8819"
+       y="1016.9291"
+       id="phone_data"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4019"
+         x="194.8819"
+         y="1016.9291">+41 79 954 95 76</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="194.8819"
+       y="1027.559"
+       id="fax_data"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4023"
+         x="194.8819"
+         y="1027.559">+41 27 510 21 00</tspan></text>
+  </g>
+</svg>
